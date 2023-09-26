@@ -1,1 +1,4 @@
-test
+beautifulsoup4
+Flask
+numpy
+selenium
